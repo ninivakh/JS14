@@ -1,0 +1,23 @@
+#circle1{
+    background-color: blue;
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+}
+#circle2{
+    background-color: green;
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+    display: none;
+}
+#container{
+    justify-content: space-between;
+    display: flex;
+}
+#click{
+    border-radius: 20px;
+    border-color: black;
+    width: 100px;
+    background-color: beige;
+}
